@@ -29,6 +29,7 @@ class CoinListViewModel @Inject constructor(
             when(result){
                 is Resource.Success -> {
                     _state.value = CoinListState(coins = result.data ?: emptyList())
+
                 }
                 is Resource.Error -> {
                     _state.value = CoinListState(error = result.message ?:

@@ -1,5 +1,6 @@
 package com.mobiledev.cryptocurrencyapp.domain.use_case.get_coin
 
+import android.util.Log
 import com.mobiledev.cryptocurrencyapp.common.Resource
 import com.mobiledev.cryptocurrencyapp.data.remote.dto.toCoinDetail
 import com.mobiledev.cryptocurrencyapp.domain.model.CoinDetail
