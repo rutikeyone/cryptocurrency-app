@@ -5,6 +5,6 @@ CryptocurrencyApp is application for get data about cryptocurrency developed for
 ## Screenshots
 
 <p align="center">
-  <img src="https://i.ibb.co/ZMJ0Nj6/1.png" width="180"/>
-  <img src="https://i.ibb.co/YjbgbWZ/2.png" width="180"/>
+  <img src="https://github.com/RuTiKeyOne/CryptocurrencyApp/blob/master/doc/ScreenShots/ScreenShot1.png" width="250"/>
+  <img src="https://github.com/RuTiKeyOne/CryptocurrencyApp/blob/master/doc/ScreenShots/ScreenShot2.png" width="250"/>
 </p>
